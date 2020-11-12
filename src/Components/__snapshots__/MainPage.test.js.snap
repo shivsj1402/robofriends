@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mainpage component render 1`] = `
+<div
+  className="tc"
+>
+  <Header />
+  <SearchBox
+    searchChange={[MockFunction]}
+  />
+  <Scroll>
+    <ErrorBoundaries>
+      <CardList
+        robots={Array []}
+      />
+    </ErrorBoundaries>
+  </Scroll>
+</div>
+`;
